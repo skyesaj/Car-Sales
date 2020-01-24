@@ -76,7 +76,7 @@ write the reducer logic for the actions 👉 Rinse and repeat
 
 ## Stretch Problems
 
-Do not attempt stretch problems until MVP has been reached and a final commit has been made.
+# Do not attempt stretch problems until MVP has been reached and a final commit has been made.
 
 - Use Redux hooks instead of HOCs
 - Implement React-Router and add a starter page where the user can choose a car. Each car should have different features that have different pricing. Have fun with this! It could end up being really cool.
